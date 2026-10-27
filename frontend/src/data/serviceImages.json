@@ -1,0 +1,180 @@
+{
+  "tile-flooring": {
+    "hero": "/images/services/tile-flooring/3.webp",
+    "images": [
+      "/images/services/tile-flooring/3.webp",
+      "/images/services/tile-flooring/6.webp",
+      "/images/services/tile-flooring/9.webp",
+      "/images/services/tile-flooring/13.webp",
+      "/images/services/tile-flooring/21.webp",
+      "/images/services/tile-flooring/25.webp",
+      "/images/services/tile-flooring/29.webp",
+      "/images/services/tile-flooring/31.webp",
+      "/images/services/tile-flooring/32.webp",
+      "/images/services/tile-flooring/33.webp",
+      "/images/services/tile-flooring/42.webp",
+      "/images/services/tile-flooring/57.webp",
+      "/images/services/tile-flooring/59.webp",
+      "/images/services/tile-flooring/60.webp",
+      "/images/services/tile-flooring/91.webp",
+      "/images/services/tile-flooring/93.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "bathroom-upgrades": {
+    "hero": "/images/services/bathroom-upgrades/2.webp",
+    "images": [
+      "/images/services/bathroom-upgrades/2.webp",
+      "/images/services/bathroom-upgrades/4.webp",
+      "/images/services/bathroom-upgrades/12.webp",
+      "/images/services/bathroom-upgrades/16.webp",
+      "/images/services/bathroom-upgrades/17.webp",
+      "/images/services/bathroom-upgrades/18.webp",
+      "/images/services/bathroom-upgrades/23.webp",
+      "/images/services/bathroom-upgrades/34.webp",
+      "/images/services/bathroom-upgrades/39.webp",
+      "/images/services/bathroom-upgrades/40.webp",
+      "/images/services/bathroom-upgrades/45.webp",
+      "/images/services/bathroom-upgrades/49.webp",
+      "/images/services/bathroom-upgrades/52.webp",
+      "/images/services/bathroom-upgrades/54.webp",
+      "/images/services/bathroom-upgrades/55.webp",
+      "/images/services/bathroom-upgrades/61.webp",
+      "/images/services/bathroom-upgrades/63.webp",
+      "/images/services/bathroom-upgrades/72.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "custom-showers": {
+    "hero": "/images/services/custom-showers/1.webp",
+    "images": [
+      "/images/services/custom-showers/1.webp",
+      "/images/services/custom-showers/8.webp",
+      "/images/services/custom-showers/10.webp",
+      "/images/services/custom-showers/15.webp",
+      "/images/services/custom-showers/34.webp",
+      "/images/services/custom-showers/37.webp",
+      "/images/services/custom-showers/39.webp",
+      "/images/services/custom-showers/40.webp",
+      "/images/services/custom-showers/41.webp",
+      "/images/services/custom-showers/47.webp",
+      "/images/services/custom-showers/51.webp",
+      "/images/services/custom-showers/62.webp",
+      "/images/services/custom-showers/64.webp",
+      "/images/services/custom-showers/67.webp",
+      "/images/services/custom-showers/68.webp",
+      "/images/services/custom-showers/69.webp",
+      "/images/services/custom-showers/73.webp",
+      "/images/services/custom-showers/74.webp",
+      "/images/services/custom-showers/80.webp",
+      "/images/services/custom-showers/89.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "kitchen-backsplash": {
+    "hero": "/images/services/kitchen-backsplash/27.webp",
+    "images": [
+      "/images/services/kitchen-backsplash/27.webp",
+      "/images/services/kitchen-backsplash/28.webp",
+      "/images/services/kitchen-backsplash/30.webp",
+      "/images/services/kitchen-backsplash/43.webp",
+      "/images/services/kitchen-backsplash/44.webp",
+      "/images/services/kitchen-backsplash/46.webp",
+      "/images/services/kitchen-backsplash/59.webp",
+      "/images/services/kitchen-backsplash/75.webp",
+      "/images/services/kitchen-backsplash/76.webp",
+      "/images/services/kitchen-backsplash/81.webp",
+      "/images/services/kitchen-backsplash/82.webp",
+      "/images/services/kitchen-backsplash/83.webp",
+      "/images/services/kitchen-backsplash/92.webp",
+      "/images/services/kitchen-backsplash/95.webp",
+      "/images/services/kitchen-backsplash/96.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "waterproofing": {
+    "hero": "/images/services/waterproofing/34.webp",
+    "images": [
+      "/images/services/waterproofing/34.webp",
+      "/images/services/waterproofing/36.webp",
+      "/images/services/waterproofing/38.webp",
+      "/images/services/waterproofing/39.webp",
+      "/images/services/waterproofing/40.webp",
+      "/images/services/waterproofing/41.webp",
+      "/images/services/waterproofing/47.webp",
+      "/images/services/waterproofing/54.webp",
+      "/images/services/waterproofing/62.webp",
+      "/images/services/waterproofing/63.webp",
+      "/images/services/waterproofing/64.webp",
+      "/images/services/waterproofing/65.webp",
+      "/images/services/waterproofing/73.webp",
+      "/images/services/waterproofing/78.webp",
+      "/images/services/waterproofing/80.webp",
+      "/images/services/waterproofing/89.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "fireplace-tile": {
+    "hero": "/images/services/fireplace-tile/24.webp",
+    "images": [
+      "/images/services/fireplace-tile/24.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "mitered-finishes": {
+    "hero": "/images/services/mitered-finishes/7.webp",
+    "images": [
+      "/images/services/mitered-finishes/7.webp",
+      "/images/services/mitered-finishes/14.webp",
+      "/images/services/mitered-finishes/20.webp",
+      "/images/services/mitered-finishes/56.webp",
+      "/images/services/mitered-finishes/66.webp",
+      "/images/services/mitered-finishes/78.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "home-repairs": {
+    "hero": "/images/services/home-repairs/6.webp",
+    "images": [
+      "/images/services/home-repairs/6.webp",
+      "/images/services/home-repairs/22.webp",
+      "/images/services/home-repairs/25.webp",
+      "/images/services/home-repairs/29.webp",
+      "/images/services/home-repairs/31.webp",
+      "/images/services/home-repairs/32.webp",
+      "/images/services/home-repairs/33.webp",
+      "/images/services/home-repairs/35.webp",
+      "/images/services/home-repairs/77.webp",
+      "/images/services/home-repairs/85.webp",
+      "/images/services/home-repairs/86.webp",
+      "/images/services/home-repairs/87.webp",
+      "/images/services/home-repairs/88.webp",
+      "/images/services/home-repairs/90.webp",
+      "/images/services/home-repairs/91.webp",
+      "/images/services/home-repairs/93.webp"
+    ],
+    "added": [],
+    "removed": []
+  },
+  "appliance-installation": {
+    "hero": "/images/services/appliance-installation/75.webp",
+    "images": [
+      "/images/services/appliance-installation/75.webp",
+      "/images/services/appliance-installation/76.webp",
+      "/images/services/appliance-installation/79.webp",
+      "/images/services/appliance-installation/81.webp",
+      "/images/services/appliance-installation/82.webp",
+      "/images/services/appliance-installation/83.webp",
+      "/images/services/appliance-installation/84.webp"
+    ],
+    "added": [],
+    "removed": []
+  }
+}
